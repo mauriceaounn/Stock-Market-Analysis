@@ -10,12 +10,12 @@ To gain deeper insights, we incorporated Python's advanced libraries such as sea
 
 Screenshots: (more in the code)
 
-![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/9cd35188-8bbe-487b-8e66-b12e565f6d21)
+![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/cb13926a-3cb6-4fcb-aaaa-0e61f6bd8c32)
 
-![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/ac57e859-5ef9-41a4-ac94-28a3e38022fd)
+![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/550e7a0f-ea92-4016-98c8-a373571f3513)
 
-![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/22188866-443c-4264-a178-82fd3c2281d2)
+![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/72702647-af7a-4d04-a45b-07eefc521bcb)
 
-![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/39cb68f1-ced4-4aaf-a5f6-62642bb55df9)
+![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/a2440f11-4e09-4485-b3dc-01b0bbd433cb)
 
-![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/9701d072-29f6-49ea-ab30-1abc87a89cf9)
+![image](https://github.com/mauriceaounn/Stock-Market-Analysis/assets/123246722/9a0ff725-ee25-46fe-b9d9-a81c7ae64fbf)
